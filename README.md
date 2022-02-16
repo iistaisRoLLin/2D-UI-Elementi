@@ -1,12 +1,12 @@
 # 2D-UI-Elementi
 Unity projekts kura ir UI Elementi 
  ** Uzdevumu saraksts ** 
- - [ ] Button Elements
- - [ ] Text Elements
- - [ ] Input Field Elements
- - [ ] Toggle Elements
- - [ ] Image Elements
+ - [x] Button Elements
+ - [x] Text Elements
+ - [x] Input Field Elements
+ - [x] Toggle Elements
+ - [x] Image Elements
  - [ ] Panel Elements
  - [ ] Slider Elements
  - [ ] Audio Source Elements
- - [ ] C# Scripta izveide
+ - [x] C# Scripta izveide
